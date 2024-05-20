@@ -1,3 +1,6 @@
+// Time Complexity: O(n^2)
+// Space Complexity: O(n^2)
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,3 +1,6 @@
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 class Solution {
     public void sortColors(int[] nums) {
         int low = 0, mid = 0, high = nums.length - 1;

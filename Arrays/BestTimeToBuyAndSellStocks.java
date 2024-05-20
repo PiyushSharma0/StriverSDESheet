@@ -1,3 +1,6 @@
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
 class Solution {
     public int maxProfit(int[] prices) {
         int minPrice = Integer.MAX_VALUE;
