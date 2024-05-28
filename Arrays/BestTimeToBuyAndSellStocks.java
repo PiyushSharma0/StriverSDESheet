@@ -1,7 +1,7 @@
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
-class Solution {
+class BestTimeToBuyAndSellStocks {
     public int maxProfit(int[] prices) {
         int minPrice = Integer.MAX_VALUE;
         int maxProfit = 0;

@@ -1,7 +1,7 @@
 // Time Complexity: O(m*n)
 // Space Complexity: O(1)
 
-class Solution {
+class SetMatrixZeroes {
     public void setZeroes(int[][] matrix) {
         final int m = matrix.length;
         final int n = matrix[0].length;

@@ -1,7 +1,7 @@
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-class Solution {
+class NextPermutation {
     public void nextPermutation(int[] nums) {
         int index = -1;
 

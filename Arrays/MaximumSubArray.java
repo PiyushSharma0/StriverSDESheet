@@ -1,7 +1,7 @@
 // Time Complexity: O(n) 
 // Space Complexity: O(1)
 
-class Solution {
+class MaximumSubArray {
     public int maxSubArray(int[] nums) {
         int maxSum = nums[0];
         int currentSum = 0;

@@ -4,7 +4,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class PascalTriangle {
     public List<List<Integer>> generate(int n) {
       List<List<Integer>> lst= new ArrayList<>();
       for(int i=1;i<=n;i++)
